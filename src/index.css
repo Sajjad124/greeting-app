@@ -1,0 +1,20 @@
+body {
+ background-color: #83df95;
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0%;
+ font-family: ;
+}
+
+div{
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
